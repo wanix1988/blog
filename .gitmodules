@@ -1,0 +1,3 @@
+[submodule "freemind.386"]
+  path = "themes/freemind.386"
+  url = "git@github.com:wanix1988/theme-freemind.386.git"
