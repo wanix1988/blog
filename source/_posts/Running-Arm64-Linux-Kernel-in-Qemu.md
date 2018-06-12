@@ -3,6 +3,7 @@ title: Running Arm64 Linux Kernel in Qemu
 date: 2018-06-12 21:44:16
 tags: linux, kernel, arm, qemu
 categories: linux, kernel, arm, qemu
+toc: true
 ---
 ## 原由
 看了一下《奔跑吧Linux内核》这本书，决定好好研究一下ARM64平台，包括汇编和Linux Kernel相关的知识。网络上搜索到了之前他人搭建成功的帖子，自己照着做一遍却发现qemu启动后没有任何输出，查看进程占用率却非常高，感觉就是qemu cpu跑飞了。仔细思考后觉得问题一定出在编译器上面，所以下载了linaro提供的最新编译器，果然解决问题。下面把整个流程记录一下，方便后来人。
