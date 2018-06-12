@@ -1,8 +1,9 @@
 ---
 title: Running Arm64 Linux Kernel in Qemu
+description: 在Qemu上运行Arm64 Linux Kernel
 date: 2018-06-12 21:44:16
-tags: linux, kernel, arm, qemu
-categories: linux, kernel, arm, qemu
+tags: kernel 
+categories: kernel 
 toc: true
 ---
 ## 原由
