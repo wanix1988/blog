@@ -1,7 +1,7 @@
 ---
 title: difference_between___stdcall___cdcel___fastcall
 date: 2018-08-12 22:51:13
-tags:
+tags: C/C++
 ---
 # __stdcall、__cdcel和__fastcall三者的区别
 

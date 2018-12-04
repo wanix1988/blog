@@ -1,6 +1,7 @@
 ---
 title: debug_linux_kernel_with_virtualbox
 date: 2018-11-13 22:25:52
+categories: kernel
 tags: debug,linux,kernel,virtualbox,kgdb,serial
 ---
 # 使用VirtualBox搭建Linux Kernel调试平台

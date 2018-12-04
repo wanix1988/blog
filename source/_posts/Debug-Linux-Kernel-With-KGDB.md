@@ -1,7 +1,8 @@
 ---
 title: Debug Linux Kernel With KGDB
 date: 2018-12-04 11:30:00
-tags: debug,linux,kernel,kgdb,kdb
+categories: kernel
+tags: debug,linux,kernel,kgdbkdb
 ---
 # 使用KGDB调试Linux Kernel(20181114)
 1. Grub启动命令行中添加kgdboc=ttyS0,115200 kgdbwait nokaslr   
